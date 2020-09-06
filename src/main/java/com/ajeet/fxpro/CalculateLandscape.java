@@ -1,6 +1,10 @@
 package com.ajeet.fxpro;
+
 import java.util.Arrays;
 
+/**
+ * @author <a href="mailto:id4ajeet@gmail.com">Ajeet</a>
+ */
 public class CalculateLandscape {
 
     public static void main(String[] args) {
