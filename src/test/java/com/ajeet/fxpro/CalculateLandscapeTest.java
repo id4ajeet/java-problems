@@ -1,4 +1,4 @@
-package com.ajeet;
+package com.ajeet.fxpro;
 
 import org.junit.Assert;
 import org.junit.Test;
