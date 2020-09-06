@@ -1,16 +1,6 @@
-package com.ajeet.fxpro;/*
- * (c) Copyright 2014 Brite:Bill Ltd.
- *
- * 23 Windsor Place, Dublin 2, Ireland
- * info@britebill.com
- * +353 1 661 9426
- */
-
+package com.ajeet.fxpro;
 import java.util.Arrays;
 
-/**
- * @author <a href="mailto:AjeetKumar.Singh1@britebill.com">Ajeet</a>
- */
 public class CalculateLandscape {
 
     public static void main(String[] args) {
